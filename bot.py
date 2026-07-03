@@ -65,6 +65,21 @@ SEARCH_QUERIES = [
 
     # Specialized
     "AFM microscopy technician",
+
+    #Illustration
+    "scientific illustrator remote",
+    "scientific illustrator Sweden",
+    "scientific illustrator Gothenburg",
+
+    "medical illustrator remote",
+    "medical illustrator Sweden",
+
+    "biological illustrator remote",
+    "biomedical illustrator",
+
+    "science illustrator",
+    "scientific visualization",
+
 ]
 
 # ─── BLACKLIST ──────────────────────────────────────────────────────────
