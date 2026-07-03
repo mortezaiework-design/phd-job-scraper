@@ -37,16 +37,33 @@ MAX_JOBS_PER_RUN  = 15     # حداکثر آگهی ارسالی در هر اجر
 
 # ─── کلمات جستجو ──────────────────────────────────────────────────────────────
 SEARCH_QUERIES = [
-“cellular molecular biology phd”,
-“molecular biology phd”,
-“doctoral student molecular biology”,
-“PhD microbiology”,
-“PhD molecular microbiology”,
-“research assistant Sweden”,
-“research technician Gothenburg”,
-“lab technician Sweden”,
-"lab technician Gothenburg”,
-“AFM microscopy technician Gothenburg”,
+    # PhD (Worldwide)
+    "cellular molecular biology phd",
+    "molecular biology phd",
+    "doctoral student molecular biology",
+    "PhD microbiology",
+    "PhD molecular microbiology",
+
+    # PhD (Sweden)
+    "cellular molecular biology phd Sweden",
+    "molecular biology phd Sweden",
+    "doctoral student molecular biology Sweden",
+    "PhD microbiology Sweden",
+    "PhD molecular microbiology Sweden",
+
+    # Research Positions
+    "research assistant",
+    "research technician",
+
+    # Lab Positions (Sweden)
+    "lab technician Sweden",
+    "lab technician Gothenburg",
+    "laboratory technician Sweden",
+    "laboratory technician Gothenburg",
+
+    # Specialized
+    "AFM microscopy technician",
+    "AFM microscopy technician Sweden",
 ]
 
 # ─── کلمات ممنوعه (Blacklist) ──────────────────────────────────────────────────
