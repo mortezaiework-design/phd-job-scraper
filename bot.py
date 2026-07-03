@@ -37,24 +37,44 @@ MAX_JOBS_PER_RUN  = 15     # حداکثر آگهی ارسالی در هر اجر
 
 # ─── کلمات جستجو ──────────────────────────────────────────────────────────────
 SEARCH_QUERIES = [
-    "SEO Specialist",
-    "Technical SEO Manager remote",
-    "SEO Data Analyst remote",
-    "Senior Technical SEO onsite relocation package",
-    "SEO Python Technical SEO remote",
+“cellular molecular biology phd”,
+“molecular biology phd”,
+“doctoral student molecular biology”,
+“PhD microbiology”,
+“PhD molecular microbiology”,
+“research assistant Sweden”,
+“research technician Gothenburg”,
+“lab technician Sweden”,
+"lab technician Gothenburg”,
+“AFM microscopy technician Gothenburg”,
 ]
 
 # ─── کلمات ممنوعه (Blacklist) ──────────────────────────────────────────────────
 BLACKLIST_KEYWORDS = [
-    "US residents only",
-    "must reside in US",
-    "unpaid",
-    "volunteer",
+
+    "senior",
+
+    "manager",
+
+    "director",
+
+    "principal",
+
+    "head of",
+
+    "intern",
+
     "internship",
-    "commission only",
-    "multi-level marketing",
-    "must be based in"
-    "no relocation"
+
+    "volunteer",
+
+    "unpaid",
+
+    "sales",
+
+    "marketing",
+
+    "software engineer",
 ]
 # ══════════════════════════════════════════════════════════════════════════════
 # حافظه دائمی — seen_jobs.txt
